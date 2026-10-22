@@ -14,8 +14,8 @@ Lunar age and illumination percentage are reserved for the paid edition.
 
 ## Downloads
 
-- Linux: `dist/moon-clock-demo_0.1.0~demo1_all.deb`
-- Windows: `dist/windows/MoonClock-Demo-Setup-0.1.0-demo1.exe`
+- [Download for Linux](https://github.com/toosox/moon-clock-demo/releases/download/v0.1.0-demo1/moon-clock-demo_0.1.0.demo1_all.deb)
+- [Download for Windows](https://github.com/toosox/moon-clock-demo/releases/download/v0.1.0-demo1/MoonClock-Demo-Setup-0.1.0-demo1.exe)
 
 ## Licence
 
