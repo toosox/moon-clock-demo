@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+build/
+windows/build/
+dist/

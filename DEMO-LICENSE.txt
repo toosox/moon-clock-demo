@@ -1,0 +1,89 @@
+MOON CLOCK DEMO NONCOMMERCIAL REDISTRIBUTION LICENCE
+
+Effective date: October 21, 2026
+Copyright © 2026 TarotByAndrew.com. All rights reserved.
+
+This licence applies to the Windows and Linux demo editions of Moon Clock.
+
+1. Permission granted
+
+TarotByAndrew.com grants permission to download, install, and use the Moon Clock
+Demo without charge. You may also redistribute exact, complete, unmodified
+copies of the Moon Clock Demo without charge, provided that:
+
+- this licence and every copyright, ownership, and third-party notice remain
+  complete, intact, visible, and distributed with every copy;
+- the copy is distributed in its original form without modification;
+- no money, fee, donation, subscription, advertising consideration, commercial
+  benefit, or other compensation is requested or received; and
+- the Moon Clock Demo is not bundled with, used to promote, or supplied as part
+  of any product, service, membership, collection, or transaction for which
+  money or other value is requested or received.
+
+2. No sale or commercial use
+
+You must not sell, resell, license for a fee, rent, lease, monetise, commercially
+distribute, commercially host, or otherwise exploit the Moon Clock Demo or any
+part of it. You must not claim that the Moon Clock Demo is your product or that
+you are authorised to sell or license it.
+
+3. No modification or derivative distribution
+
+You must not modify, alter, adapt, translate, patch, transform, remove features
+from, add features to, or create or distribute a derivative version of the Moon
+Clock Demo. You must not distribute the source or binaries separately from the
+complete demo package and its notices.
+
+4. No extraction or separate reuse
+
+The Moon Clock Demo’s original code, interface, text, calculations, graphics,
+artwork, designs, and documentation remain the property of TarotByAndrew.com.
+You must not extract, copy, reuse, publish, sell, license, train on, or distribute
+those elements separately or as part of another work, product, dataset, model,
+service, or application.
+
+5. No reverse engineering
+
+Except where a restriction is prohibited by applicable law, you must not
+reverse engineer, decompile, disassemble, decode, decrypt, trace, or attempt to
+reconstruct non-public code, packaged resources, algorithms, data structures,
+or internal operations from the distributed executable packages.
+
+6. Ownership and reserved rights
+
+The Moon Clock Demo is licensed, not sold. TarotByAndrew.com retains all
+copyright, ownership, intellectual-property rights, and other rights in its
+original material. No right is granted except the limited permission stated in
+section 1. All rights not expressly granted are reserved.
+
+7. Third-party components
+
+Runtime and packaging components identified in the accompanying notices remain
+governed by their own licences. Those terms do not grant any right to Moon
+Clock’s original proprietary code, artwork, text, graphics, calculations, or
+other original content.
+
+8. Termination
+
+This licence terminates automatically if you breach any term. On termination,
+you must stop using and distributing the Moon Clock Demo and remove all copies
+in your possession or control. Termination does not limit any other right or
+remedy available to TarotByAndrew.com.
+
+9. Disclaimer and limitation
+
+To the maximum extent permitted by law, the Moon Clock Demo is provided “as is”
+and “as available,” without warranties of any kind. TarotByAndrew.com will not
+be liable for indirect, incidental, special, consequential, exemplary, or
+punitive loss arising from the Moon Clock Demo. Nothing in this licence excludes
+a right or liability that applicable law does not permit to be excluded.
+
+10. Governing law
+
+This licence is governed by the laws of the State of Oklahoma, without regard
+to conflict-of-law principles. Subject to rights that applicable law does not
+allow the parties to restrict, disputes must be brought in the state or federal
+courts serving Oklahoma County, Oklahoma.
+
+No permission beyond this licence exists unless TarotByAndrew.com grants it in
+a written agreement signed by an authorised representative.

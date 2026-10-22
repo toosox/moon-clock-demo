@@ -1,0 +1,24 @@
+MOON CLOCK THIRD-PARTY COMPONENT NOTICE
+
+Moon Clock Demo’s original code, interface, text, calculations, graphics,
+artwork, designs, and documentation are proprietary works owned by
+TarotByAndrew.com and are governed by DEMO-LICENSE.txt.
+
+The Windows demo contains runtime and packaging components required to make
+the application installable and executable on Windows. These components retain
+their own copyrights and licences:
+
+- Python 3.13.16
+- Tcl/Tk 8.6
+- Pillow 13.0.0
+- PyInstaller 6.22.3 bootloader and runtime files
+- NSIS 3.13 installer components
+
+The complete notices supplied with the build are installed in the
+third-party-licenses folder. They apply only to the identified third-party
+components and do not license Moon Clock Demo’s original proprietary code,
+artwork, text, graphics, calculations, or other original content.
+
+The Linux demo uses Python, GTK, PyGObject, and related libraries supplied by
+the user’s Linux distribution. Those system packages remain governed by their
+respective licences and are not owned by TarotByAndrew.com.
